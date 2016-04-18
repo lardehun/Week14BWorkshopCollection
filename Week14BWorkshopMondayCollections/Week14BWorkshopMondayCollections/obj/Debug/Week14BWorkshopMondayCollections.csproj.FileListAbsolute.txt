@@ -1,0 +1,6 @@
+c:\users\szabo mate\documents\visual studio 2015\Projects\Week14BWorkshopMondayCollections\Week14BWorkshopMondayCollections\bin\Debug\Week14BWorkshopMondayCollections.exe.config
+c:\users\szabo mate\documents\visual studio 2015\Projects\Week14BWorkshopMondayCollections\Week14BWorkshopMondayCollections\bin\Debug\Week14BWorkshopMondayCollections.exe
+c:\users\szabo mate\documents\visual studio 2015\Projects\Week14BWorkshopMondayCollections\Week14BWorkshopMondayCollections\bin\Debug\Week14BWorkshopMondayCollections.pdb
+c:\users\szabo mate\documents\visual studio 2015\Projects\Week14BWorkshopMondayCollections\Week14BWorkshopMondayCollections\obj\Debug\Week14BWorkshopMondayCollections.exe
+c:\users\szabo mate\documents\visual studio 2015\Projects\Week14BWorkshopMondayCollections\Week14BWorkshopMondayCollections\obj\Debug\Week14BWorkshopMondayCollections.pdb
+C:\Users\Szabo Mate\Documents\Visual Studio 2015\Projects\Week14BWorkshopMondayCollections\Week14BWorkshopMondayCollections\obj\Debug\Week14BWorkshopMondayCollections.csprojResolveAssemblyReference.cache
